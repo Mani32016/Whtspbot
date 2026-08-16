@@ -14,11 +14,11 @@ module.exports = {
     ],
 
     statusKeywords: [
-        'status', 'stetus', 'statis', 'ستیٹس', 'اسٹیٹس',
+        'status', 'stetus', '@You mentioned this group', 'ستیٹس', 'اسٹیٹس',
         'mera status', 'apna status', 'status lagaya',
         'status daikho', 'status check', 'status dekh',
         'status dalna', 'status share', 'my status',
-        'see my status', 'check status', 'status dikhana',
+        'Your status', 'check status', 'status dikhana',
         'status bhejo', 'status bhejna'
     ],
 
