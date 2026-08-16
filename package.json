@@ -1,0 +1,16 @@
+{
+  "name": "pakistan-welfare-bot",
+  "version": "3.0.0",
+  "description": "Pakistan Welfare Society WhatsApp Bot - QR as Clickable URL",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
