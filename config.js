@@ -15,8 +15,8 @@ module.exports = {
 
     statusKeywords: [
         'status', 'stetus', '@You mentioned this group.', 'ستیٹس', 'اسٹیٹس',
-        'mera status', 'apna status', 'status lagaya',
-        'status daikho', 'status check', 'status dekh',
+        'mera status', ''s status', 'status lagaya',
+        'This group was mentioned.', 'status check', 'status dekh',
         'status dalna', 'status share', 'my status',
         'Your status', 'check status', 'status dikhana',
         'status bhejo', 'status bhejna'
